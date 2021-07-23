@@ -1,0 +1,36 @@
+.header{
+    width: 100%;
+    margin: 0;
+    font-size: 20px;
+    box-shadow: 5px 5px 5px black;
+    background-color: orange;
+    color: white;
+    }
+    
+    .lokesh{
+    font-size: 15px;
+    color: black;
+    }
+    
+    .footer{
+    width: 100%;
+    bottom: 0;
+    background-color: gray;
+    color: white;
+    font-size: 15px;
+    position:fixed;
+    text-align: center;
+    }
+    
+    canvas{
+        border: solid white;
+    width: 200px;
+    height: 200px;
+    
+    }
+    
+    hr{
+    background-color: white;
+        height: 1px;
+        margin-bottom: 5px;
+    }
